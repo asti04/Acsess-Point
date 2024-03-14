@@ -15,6 +15,7 @@ Langkah-langkahnya :
    4. kemudian untuk login masukkan username dan password yang sama
          ![WhatsApp Image 2024-03-14 at 14 14 01_0ad93c7d](https://github.com/asti04/Acsess-Point/assets/126399070/93c2dd5a-c4ed-4e41-824f-5e49a54b4452)
    5. jika berhasil login maka masuk ke bagian wireless dan pilih bagian wireless security untuk mengsetting nama dari access point dan passwordnya.
+      
 ![WhatsApp Image 2024-03-14 at 14 13 42_f00794b0](https://github.com/asti04/Acsess-Point/assets/126399070/0d3a1f24-706c-4a3b-98f1-d15935d679c9)
    6. Setelah itu konfigurasi pada access point telah berhasil dilakukan. 
       
